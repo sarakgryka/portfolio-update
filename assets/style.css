@@ -1,0 +1,24 @@
+.container {
+
+    background-color: lightgrey;
+    width: 1050px;
+    height: 850px;
+}
+
+
+  
+ 
+img {
+
+  
+        max-width: 100%;
+        height: auto;
+     
+}
+
+.card{
+
+    margin-top: 20px;
+    background-image: url("./images/6-64793_colorful-wallpaper-i-wallpaper-cellphone-wallpaper-simple-background.jpg");
+}
+
