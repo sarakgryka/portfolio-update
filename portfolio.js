@@ -6,6 +6,10 @@ $( document ).ready(function() {
         window.open("file:///C:/Users/HomeUser/Desktop/homework/portfolio-update/portfolio.html")
     })
 
+    $('#myModal').on('shown.bs.modal', function () {
+        $('#myInput').trigger('focus')
+      })
+
 
 
 
