@@ -48,6 +48,16 @@ body {
 
 
 }
+.portDivs {
+
+    border: rgb(255, 255, 255) solid 3px;
+    border-radius: 25px;
+    background: dimgray;
+    
+
+
+
+}
 
 .caro {
 
