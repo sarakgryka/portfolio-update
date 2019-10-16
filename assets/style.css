@@ -74,3 +74,21 @@ body {
 
     font-weight: bolder;
 }
+
+.portImg {
+
+    width: 300px; 
+    height: 200px
+}
+
+.titlePort {
+
+
+    color: lightblue;
+    padding-right: 50px;
+}
+
+.portButt {
+
+    padding-top: 50px;
+}

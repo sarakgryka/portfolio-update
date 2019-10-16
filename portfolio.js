@@ -3,15 +3,15 @@ $( document ).ready(function() {
     $(".carousel-inner").on("click", function(){
 
 
-        window.open("file:///C:/Users/HomeUser/Desktop/homework/portfolio-update/portfolio.html")
+        window.open("https://sarakgryka.github.io/portfolio-update/portfolio")
     })
 
     $('#myModal').on('shown.bs.modal', function () {
         $('#myInput').trigger('focus')
       })
 
-      TweenMax.to(".nav-link", 3, {x:950, ease:Bounce.easeOut});
-        TweenMax.to(".navbar-brand", 3, {x:250, ease:Bounce.easeOut});
+      TweenMax.to(".nav-link", 3, {x:600, ease:Bounce.easeOut});
+        TweenMax.to(".navbar-brand", 3, {x:150, ease:Bounce.easeOut});
     //   TweenMax.to(".card-text", 3, {x:-50, ease:Bounce.easeOut});
   //TweenMax.to(".links", 3, {x:200, ease:Bounce.easeOut});
       
